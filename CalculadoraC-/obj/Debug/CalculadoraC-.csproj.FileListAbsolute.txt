@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Documents\Projeto.Calc\CalculadoraC-\CalculadoraC-\obj\Debug\CalculadoraC-.csproj.AssemblyReference.cache
+C:\Users\Tecnico\Documents\Projeto.Calc\CalculadoraC-\CalculadoraC-\obj\Debug\CalculadoraC-.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Documents\Projeto.Calc\CalculadoraC-\CalculadoraC-\bin\Debug\CalculadoraC-.exe.config
+C:\Users\Tecnico\Documents\Projeto.Calc\CalculadoraC-\CalculadoraC-\bin\Debug\CalculadoraC-.exe
+C:\Users\Tecnico\Documents\Projeto.Calc\CalculadoraC-\CalculadoraC-\bin\Debug\CalculadoraC-.pdb
+C:\Users\Tecnico\Documents\Projeto.Calc\CalculadoraC-\CalculadoraC-\obj\Debug\CalculadoraC-.exe
+C:\Users\Tecnico\Documents\Projeto.Calc\CalculadoraC-\CalculadoraC-\obj\Debug\CalculadoraC-.pdb
